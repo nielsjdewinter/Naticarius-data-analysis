@@ -1,0 +1,191 @@
+Sample position,Easotope Name,ID,d13C VPDB (Final),d18O VPDB (Final),D47 CDES (ETF),Type,Sample_name,Sample description,season,Height,horizon
+R1,1,2023-06-02 13:41 CST,-3.21,-2.15,0.59,sample,N-1-p,protoconch,no season,no height,Zk13-6-1
+R11,1,2023-06-07 03:35 CST,-3.2,-2.15,0.564,sample,N-1-p,protoconch,no season,no height,Zk13-6-1
+R21,1,2023-06-08 06:00 CST,-3.12,-2.08,0.588,sample,N-1-p,protoconch,no season,no height,Zk13-6-1
+R3,4,2023-06-03 09:48 CST,-4.1,-2.81,0.572,sample,N-2-b,body whorl,no season,no height,Zk13-6-1
+R13,4,2023-06-03 12:07 CST,-4.09,-2.97,0.597,sample,N-2-b,body whorl,no season,no height,Zk13-6-1
+R22,4,2023-06-07 10:30 CST,-4.03,-2.98,0.567,sample,N-2-b,body whorl,no season,no height,Zk13-6-1
+R5,8,2023-06-06 14:00 CST,-4.85,-3.53,0.586,sample,N-3-b3,aperture,no season,no height,Zk13-21
+R15,8,2023-06-06 18:19 CST,-4.88,-3.76,0.613,sample,N-3-b3,aperture,no season,no height,Zk13-21
+R2,4,2023-09-25 20:10 CST,-3.68,-3.1,0.589,sample,N-5-b1,part body whorl,no season,no height,Zk13-6-1
+R12,4,2023-09-25 22:32 CST,-3.57,-2.88,0.559,sample,N-5-b1,part body whorl,no season,no height,Zk13-6-1
+R4,7,2023-07-11 12:52 CST,-4.59,-2.77,0.585,sample,N-6-b1,middle whorls,no season,no height,Zk13-6-1
+R14,7,2023-09-25 12:48 CST,-4.57,-2.74,0.574,sample,N-6-b1,middle whorls,no season,no height,Zk13-6-1
+R6,9,2023-07-20 21:57 CST,-6.33,-3.71,0.631,sample,N-7-p,protoconch,no season,no height,Zk13-6-4
+R16,9,2023-07-21 00:16 CST,-6.32,-3.74,0.622,sample,N-7-p,protoconch,no season,no height,Zk13-6-4
+R8,14,2023-08-22 19:52 CST,-6.96,-3.73,0.571,sample,N-8-b2,body whorl,no season,no height,Zk13-6-4
+R18,14,2023-08-22 22:10 CST,-6.95,-3.82,0.583,sample,N-8-b2,body whorl,no season,no height,Zk13-6-4
+R7,12,2023-08-22 01:51 CST,-5.76,-3.12,0.582,sample,N-8-p,protoconch,no season,no height,Zk13-6-4
+R17,12,2023-08-22 04:09 CST,-5.83,-3.36,0.595,sample,N-8-p,protoconch,no season,no height,Zk13-6-4
+R23,12,2023-08-25 05:10 CST,-5.91,-3.26,0.599,sample,N-8-p,protoconch,no season,no height,Zk13-6-4
+R9,16,2023-08-23 07:22 CST,-6.64,-4.97,0.606,sample,N-9-b1,middle whorls,no season,no height,Zk13-6-4
+R19,16,2023-09-28 02:18 CST,-6.68,-4.61,0.58,sample,N-9-b1,middle whorls,no season,no height,Zk13-6-4
+R24,16,2023-09-28 04:36 CST,-6.68,-4.56,0.597,sample,N-9-b1,middle whorls,no season,no height,Zk13-6-4
+R10,17,2023-08-23 17:21 CST,-5.9,-3.16,0.591,sample,N-9-b2,body whorl,no season,no height,Zk13-6-4
+R20,17,2023-09-29 03:14 CST,-6.59,-3.37,0.589,sample,N-9-b2,body whorl,no season,no height,Zk13-6-4
+R29,19,2023-08-24 04:51 CST,-6.11,-1.5,0.584,sample,N-10-b1,body whorl,third quarter,04/Jun,Zk13-21
+R36,19,2023-08-24 07:11 CST,-6.1,-1.6,0.589,sample,N-10-b1,body whorl,third quarter,04/Jun,Zk13-21
+R28,18,2023-09-28 09:14 CST,-5.26,-1.64,0.585,sample,N-10-p,protoconch,third quarter,04/Jun,Zk13-21
+R35,18,2023-09-28 11:36 CST,-5.22,-1.42,0.588,sample,N-10-p,protoconch,third quarter,04/Jun,Zk13-21
+R31,21,2023-08-25 00:35 CST,-5.52,-2.91,0.597,sample,N-11-b,body whorl,first quarter,04/Jun,Zk13-21
+R38,21,2023-08-25 02:52 CST,-5.55,-3.15,0.616,sample,N-11-b,body whorl,first quarter,04/Jun,Zk13-21
+R30,20,2023-08-24 17:42 CST,-5.24,-2.51,0.594,sample,N-11-p,protoconch,third quarter,04/Jun,Zk13-21
+R37,20,2023-08-24 19:59 CST,-5.3,-2.52,0.577,sample,N-11-p,protoconch,third quarter,04/Jun,Zk13-21
+R26,6,2023-06-05 19:37 CST,-5.43,-3.76,0.579,sample,N-3-b1,middle whorls,third quarter,?6,Zk13-21
+R33,6,2023-06-05 21:57 CST,-5.49,-3.91,0.592,sample,N-3-b1,middle whorls,third quarter,?6,Zk13-21
+R40,6,2023-06-07 22:59 CST,-5.51,-4.03,0.589,sample,N-3-b1,middle whorls,third quarter,?6,Zk13-21
+R27,7,2023-06-06 07:14 CST,-4.79,-3.83,0.615,sample,N-3-b2,part body whorl,first quarter,?6,Zk13-21
+R34,7,2023-06-06 09:33 CST,-4.82,-3.64,0.587,sample,N-3-b2,part body whorl,first quarter,?6,Zk13-21
+R41,7,2023-06-08 22:41 CST,-4.85,-3.76,0.614,sample,N-3-b2,part body whorl,first quarter,?6,Zk13-21
+R25,5,2023-06-05 13:17 CST,-3.97,-3.11,0.599,sample,N-3-p,protoconch,first quarter,?6,Zk13-21
+R32,5,2023-06-05 17:17 CST,-4.18,-2.98,0.613,sample,N-3-p,protoconch,first quarter,?6,Zk13-21
+R39,5,2023-06-08 20:21 CST,-4.12,-3.2,0.591,sample,N-3-p,protoconch,first quarter,?6,Zk13-21
+R42,2,2023-06-02 22:15 CST,-3.65,-1.8,0.587,sample,N-1-b,body whorl,first quarter,04/Jun,Zk13-6-1
+R49,2,2023-06-03 00:33 CST,-3.72,-1.96,0.612,sample,N-1-b,body whorl,first quarter,04/Jun,Zk13-6-1
+R56,2,2023-06-07 05:54 CST,-3.79,-2.14,0.615,sample,N-1-b,body whorl,first quarter,04/Jun,Zk13-6-1
+R44,3,2023-06-03 07:28 CST,-2.74,-1.58,0.615,sample,N-2-p,protoconch,first quarter,04/Jun,Zk13-6-1
+R51,3,2023-06-07 08:12 CST,-2.79,-1.53,0.595,sample,N-2-p,protoconch,first quarter,04/Jun,Zk13-6-1
+R57,3,2023-06-08 08:19 CST,-2.9,-1.64,0.597,sample,N-2-p,protoconch,first quarter,04/Jun,Zk13-6-1
+R45,5,2023-09-26 03:09 CST,-3.13,-3.05,0.574,sample,N-5-b2,aperture,third quarter,04/Jun,Zk13-6-1
+R52,5,2023-09-26 05:29 CST,-3.23,-3.01,0.595,sample,N-5-b2,aperture,third quarter,04/Jun,Zk13-6-1
+R43,3,2023-09-25 15:05 CST,-3.29,-3.03,0.593,sample,N-5-p,protoconch,third quarter,04/Jun,Zk13-6-1
+R50,3,2023-09-25 17:52 CST,-3.19,-2.76,0.582,sample,N-5-p,protoconch,third quarter,04/Jun,Zk13-6-1
+R47,8,2023-06-06 14:00 CST,-4.85,-3.53,0.586,sample,N-6-b2,body whorl,first quarter,?6,Zk13-6-1
+R54,8,2023-06-06 18:19 CST,-4.88,-3.76,0.613,sample,N-6-b2,body whorl,first quarter,?6,Zk13-6-1
+R58,8,2023-09-26 17:11 CST,-4.74,-2.25,0.615,sample,N-6-b2,body whorl,first quarter,?6,Zk13-6-1
+R46,6,2023-09-26 08:44 CST,-3.85,-2.27,0.599,sample,N-6-p,protoconch,first quarter,?6,Zk13-6-1
+R53,6,2023-09-26 13:51 CST,-3.7,-2.19,0.615,sample,N-6-p,protoconch,first quarter,?6,Zk13-6-1
+R48,3N,2023-02-18 07:59 CST,-1.58,-1.92,0.6,sample,N-w,whole whorls,first quarter,04/Jun,Zk13-6-1
+R55,3N,2023-02-18 10:23 CST,-1.57,-2.15,0.608,sample,N-w,whole whorls,first quarter,04/Jun,Zk13-6-1
+R59,10,2023-07-21 02:34 CST,-6.65,-4.34,0.614,sample,N-7-b1,middle whorls,first quarter,?6,Zk13-6-4
+R63,10,2023-09-12 05:21 CST,-6.88,-4.83,0.629,sample,N-7-b1,middle whorls,first quarter,?6,Zk13-6-4
+R67,10,2023-09-26 19:30 CST,-6.77,-4.59,0.583,sample,N-7-b1,middle whorls,first quarter,?6,Zk13-6-4
+R60,11,2023-08-21 21:16 CST,-6.51,-4.85,0.609,sample,N-7-b2,body whorl,first quarter,?6,Zk13-6-4
+R64,11,2023-08-21 23:34 CST,-6.43,-4.63,0.585,sample,N-7-b2,body whorl,first quarter,?6,Zk13-6-4
+R61,13,2023-09-27 21:42 CST,-6.34,-3.29,0.606,sample,N-8-b1,middle whorls,first quarter,?6,Zk13-6-4
+R65,13,2023-09-28 00:00 CST,-6.44,-3.26,0.589,sample,N-8-b1,middle whorls,first quarter,?6,Zk13-6-4
+R62,15,2023-08-23 02:46 CST,-6.57,-3.9,0.59,sample,N-9-p,protoconch,first quarter,?4,Zk13-6-4
+R66,15,2023-08-23 05:04 CST,-6.54,-4.05,0.611,sample,N-9-p,protoconch,first quarter,?4,Zk13-6-4
+R68,ETH1,2023-05-24 18:09 CST,2.2,-2.12,0.191,standard,,,,,
+R69,ETH2,2023-05-25 11:22 CST,-10.13,-18.69,0.205,standard,,,,,
+R70,ETH1,2023-05-25 13:53 CST,2.07,-2.32,0.233,standard,,,,,
+R71,ETH3,2023-05-28 22:06 CST,1.76,-1.44,0.623,standard,,,,,
+R72,ETH4,2023-05-29 00:24 CST,-10.11,-18.63,0.437,standard,,,,,
+R73,ETH1,2023-05-29 02:45 CST,2.11,-2.19,0.19,standard,,,,,
+R74,ETH2,2023-05-29 05:03 CST,-10.16,-18.5,0.181,standard,,,,,
+R75,ETH3,2023-05-29 07:21 CST,1.69,-1.81,0.64,standard,,,,,
+R76,ETH4,2023-05-29 09:41 CST,-10.23,-18.8,0.429,standard,,,,,
+R77,ETH2,2023-05-29 14:18 CST,-10.23,-18.84,0.239,standard,,,,,
+R78,ETH4,2023-05-29 20:48 CST,-10.18,-18.88,0.485,standard,,,,,
+R79,ETH1,2023-05-30 21:11 CST,2.03,-2.23,0.233,standard,,,,,
+R80,ETH2,2023-06-01 21:25 CST,-10.22,-18.65,0.215,standard,,,,,
+R81,ETH1,2023-06-02 09:02 CST,1.98,-2.36,0.208,standard,,,,,
+R82,ETH2,2023-06-03 02:50 CST,-10.27,-18.72,0.175,standard,,,,,
+R83,ETH3,2023-06-03 14:27 CST,1.64,-1.85,0.577,standard,,,,,
+R84,ETH4,2023-06-06 04:54 CST,-10.16,-18.82,0.453,standard,,,,,
+R85,ETH4,2023-06-07 01:17 CST,-10.17,-18.95,0.446,standard,,,,,
+R86,ETH1,2023-06-07 18:20 CST,2.13,-2.22,0.159,standard,,,,,
+R87,ETH2,2023-06-08 17:59 CST,-10.11,-18.55,0.2,standard,,,,,
+R88,ETH3,2023-06-09 10:22 CST,1.82,-1.54,0.573,standard,,,,,
+R89,ETH4,2023-06-10 00:02 CST,-10.23,-18.88,0.414,standard,,,,,
+R90,ETH2,2023-06-13 22:20 CST,-10.3,-19.01,0.194,standard,,,,,
+R91,ETH1,2023-06-15 21:04 CST,2.03,-2.28,0.194,standard,,,,,
+R92,ETH2,2023-06-16 22:00 CST,-10.17,-18.52,0.201,standard,,,,,
+R93,ETH3,2023-06-17 14:19 CST,1.75,-1.75,0.653,standard,,,,,
+R94,ETH4,2023-06-18 20:10 CST,-10.05,-18.82,0.461,standard,,,,,
+R95,ETH1,2023-06-19 22:49 CST,1.97,-2.25,0.235,standard,,,,,
+R96,ETH2,2023-06-20 18:56 CST,-10.2,-18.96,0.248,standard,,,,,
+R97,ETH1,2023-06-21 06:33 CST,2.01,-2.13,0.236,standard,,,,,
+R98,ETH2,2023-06-22 01:52 CST,-10.1,-18.68,0.203,standard,,,,,
+R99,ETH4,2023-06-26 12:03 CST,-10.08,-18.41,0.398,standard,,,,,
+R100,ETH1,2023-06-27 06:43 CST,2.01,-2.3,0.196,standard,,,,,
+R101,ETH2,2023-06-27 19:16 CST,-10.28,-18.77,0.222,standard,,,,,
+R102,ETH3,2023-06-28 11:34 CST,1.74,-1.75,0.611,standard,,,,,
+R103,ETH4,2023-06-29 05:50 CST,-10.1,-18.37,0.41,standard,,,,,
+R104,ETH3,2023-06-30 22:36 CST,1.7,-1.95,0.674,standard,,,,,
+R105,ETH4,2023-07-01 15:14 CST,-10.22,-18.83,0.426,standard,,,,,
+R106,ETH1,2023-07-02 09:32 CST,2.1,-2.12,0.245,standard,,,,,
+R107,ETH2,2023-07-03 21:45 CST,-10.33,-19.04,0.255,standard,,,,,
+R108,ETH1,2023-07-04 21:02 CST,1.95,-2.48,0.249,standard,,,,,
+R109,ETH4,2023-07-05 17:55 CST,-10.16,-18.92,0.413,standard,,,,,
+R110,ETH2,2023-07-05 20:15 CST,-10.19,-18.74,0.198,standard,,,,,
+R111,ETH3,2023-07-05 22:33 CST,1.75,-1.66,0.633,standard,,,,,
+R112,ETH4,2023-07-06 00:51 CST,-10.24,-18.77,0.415,standard,,,,,
+R113,ETH1,2023-07-06 03:09 CST,2.14,-2.33,0.228,standard,,,,,
+R114,ETH2,2023-07-06 05:29 CST,-10.18,-18.84,0.204,standard,,,,,
+R115,ETH4,2023-07-06 12:00 CST,-10.1,-18.47,0.389,standard,,,,,
+R116,ETH1,2023-07-07 12:37 CST,2.08,-1.91,0.179,standard,,,,,
+R117,ETH2,2023-07-11 06:39 CST,-10.24,-18.75,0.255,standard,,,,,
+R118,ETH1,2023-08-21 18:58 CST,2.21,-1.91,0.272,standard,,,,,
+R119,ETH2,2023-08-22 06:28 CST,-10.3,-18.9,0.251,standard,,,,,
+R120,ETH3,2023-08-23 00:28 CST,1.71,-1.91,0.644,standard,,,,,
+R121,ETH1,2023-08-24 02:33 CST,2.16,-2.02,0.268,standard,,,,,
+R122,ETH2,2023-08-24 22:17 CST,-10.21,-18.67,0.256,standard,,,,,
+,ETH3,2023-08-26 02:59 CST,1.71,-2.22,0.603,standard,,,,,
+R1,ETH3,2023-08-26 05:20 CST,1.53,-2.89,0.657,standard,,,,,
+R1,ETH1,2023-08-26 21:38 CST,2.03,-2.02,0.165,standard,,,,,
+R1,ETH2,2023-08-27 09:08 CST,-10.13,-18.62,0.157,standard,,,,,
+R1,ETH1,2023-08-27 20:41 CST,2.06,-1.98,0.144,standard,,,,,
+R1,ETH1,2023-08-28 18:38 CST,2.02,-1.97,0.184,standard,,,,,
+R1,ETH2,2023-08-28 20:58 CST,-10.06,-18.61,0.196,standard,,,,,
+R1,ETH2,2023-08-28 23:16 CST,-10.14,-18.57,0.175,standard,,,,,
+R1,ETH3,2023-08-29 01:35 CST,1.78,-1.44,0.612,standard,,,,,
+R1,ETH3,2023-08-29 03:54 CST,1.68,-1.57,0.55,standard,,,,,
+R1,ETH1,2023-09-04 22:02 CST,2.16,-1.98,0.194,standard,,,,,
+R1,ETH1,2023-09-05 02:45 CST,2.02,-2.35,0.244,standard,,,,,
+R1,ETH2,2023-09-05 05:05 CST,-10.15,-18.77,0.217,standard,,,,,
+R1,ETH2,2023-09-05 07:29 CST,-10.21,-18.73,0.174,standard,,,,,
+R1,ETH2,2023-09-05 09:49 CST,-10.24,-18.91,0.207,standard,,,,,
+R1,ETH3,2023-09-05 15:57 CST,1.63,-1.91,0.56,standard,,,,,
+R1,ETH3,2023-09-05 18:16 CST,1.69,-1.91,0.607,standard,,,,,
+R1,ETH1,2023-09-06 20:46 CST,2.15,-1.96,0.165,standard,,,,,
+R1,ETH1,2023-09-07 10:28 CST,2.13,-2.08,0.193,standard,,,,,
+R1,ETH3,2023-09-07 12:47 CST,1.6,-2.31,0.644,standard,,,,,
+R1,ETH2,2023-09-09 02:56 CST,-10.05,-18.31,0.229,standard,,,,,
+R1,ETH3,2023-09-11 20:11 CST,1.52,-1.72,0.607,standard,,,,,
+R1,ETH3,2023-09-12 07:45 CST,1.7,-1.86,0.648,standard,,,,,
+R1,ETH4,2023-09-13 09:07 CST,-10.05,-18.43,0.487,standard,,,,,
+R1,ETH1,2023-09-14 03:32 CST,2.27,-1.82,0.239,standard,,,,,
+R1,ETH1,2023-09-18 22:03 CST,2,-2.34,0.219,standard,,,,,
+R1,ETH1,2023-09-19 00:21 CST,1.91,-2.34,0.227,standard,,,,,
+R1,ETH1,2023-09-19 02:43 CST,2.07,-2.13,0.217,standard,,,,,
+R1,ETH2,2023-09-19 05:01 CST,-10.08,-18.59,0.217,standard,,,,,
+R2,ETH2,2023-09-19 07:20 CST,-10.17,-18.8,0.21,standard,,,,,
+R2,ETH2,2023-09-19 09:47 CST,-10.26,-19.12,0.206,standard,,,,,
+R2,ETH3,2023-09-19 14:10 CST,1.64,-2.14,0.625,standard,,,,,
+R2,ETH3,2023-09-19 16:59 CST,1.73,-1.75,0.6,standard,,,,,
+R2,ETH3,2023-09-19 19:25 CST,1.64,-1.99,0.609,standard,,,,,
+R2,ETH1,2023-09-20 19:40 CST,2.04,-2.08,0.226,standard,,,,,
+R2,ETH2,2023-09-21 12:18 CST,-10.17,-18.84,0.184,standard,,,,,
+R2,ETH3,2023-09-22 06:25 CST,1.74,-1.68,0.612,standard,,,,,
+R2,ETH3,2023-09-26 00:49 CST,1.67,-1.9,0.617,standard,,,,,
+R2,ETH1,2023-09-26 21:48 CST,2.17,-2.11,0.19,standard,,,,,
+R2,ETH1,2023-09-28 06:54 CST,2.15,-1.94,0.198,standard,,,,,
+R2,ETH2,2023-09-29 12:55 CST,-10.33,-18.76,0.223,standard,,,,,
+R2,ETH3,2023-10-01 10:28 CST,1.76,-1.65,0.591,standard,,,,,
+R2,ETH2,2023-10-05 00:27 CST,-10.09,-18.3,0.235,standard,,,,,
+R2,ETH3,2023-10-05 02:45 CST,1.64,-2.01,0.634,standard,,,,,
+R2,ETH1,2023-10-06 02:07 CST,2.14,-1.94,0.176,standard,,,,,
+R2,ETH3,2023-10-08 03:20 CST,1.84,-1.45,0.588,standard,,,,,
+R2,ETH1,2023-10-08 17:34 CST,2.11,-1.82,0.219,standard,,,,,
+R2,ETH2,2023-10-09 05:06 CST,-10.13,-18.44,0.177,standard,,,,,
+R2,ETH3,2023-10-09 22:37 CST,1.72,-1.83,0.604,standard,,,,,
+R2,ETH1,2023-10-10 17:17 CST,2.08,-2.56,0.212,standard,,,,,
+R2,ETH2,2023-10-11 11:54 CST,-10.15,-18.56,0.226,standard,,,,,
+R2,ETH3,2023-10-12 02:45 CST,1.66,-1.94,0.631,standard,,,,,
+R2,ETH2,2023-10-14 07:36 CST,-10.17,-18.71,0.185,standard,,,,,
+R2,ETH1,2023-10-14 19:16 CST,2.09,-2.07,0.18,standard,,,,,
+R2,ETH3,2023-10-15 12:29 CST,1.79,-1.64,0.613,standard,,,,,
+R2,ETH1,2023-10-16 22:39 CST,1.99,-2.13,0.213,standard,,,,,
+R2,ETH2,2023-10-17 12:54 CST,-10.14,-18.72,0.198,standard,,,,,
+R3,ETH3,2023-10-18 07:29 CST,1.72,-1.69,0.604,standard,,,,,
+R3,ETH4,2023-10-19 16:16 CST,-10.15,-18.39,0.425,standard,,,,,
+R3,ETH1,2023-10-20 14:22 CST,2.13,-2.12,0.198,standard,,,,,
+R3,ETH2,2023-10-21 08:05 CST,-10.06,-18.61,0.214,standard,,,,,
+R3,ETH1,2023-10-25 22:04 CST,2,-2.29,0.2,standard,,,,,
+R3,ETH2,2023-10-27 12:05 CST,-10.17,-18.66,0.211,standard,,,,,
+R3,ETH3,2023-10-28 06:39 CST,1.68,-1.99,0.622,standard,,,,,
+R3,ETH1,2023-10-29 00:47 CST,1.94,-2.41,0.221,standard,,,,,
+R3,ETH2,2023-10-29 17:43 CST,-10.27,-18.78,0.203,standard,,,,,
+R3,ETH3,2023-10-31 20:27 CST,1.83,-1.71,0.636,standard,,,,,
+R3,,,,,,,,,,,
