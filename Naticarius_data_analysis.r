@@ -38,6 +38,9 @@ ggplot(standard_data_long, aes(x = Date, y = value, color = Easotope.Name)) +
     theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
     theme(aspect.ratio = 1 / 1.5)
 
+# Export the plot as a vector PDF
+ggsave("isotope_data_over_time_standard_data.pdf", device = "pdf", width = 10, height = 8)
+
 # Calculate the standard deviations on all ETH standards
 STD_stats <- standard_data_long %>%
     group_by(Easotope.Name, variable) %>%
@@ -181,6 +184,9 @@ scale_x_discrete(limits = unique(sample_data$Sample_name[order(sample_data$horiz
 theme_bw() +
 theme(axis.text.x = element_text(angle = 45, hjust = 1), aspect.ratio = 1 / 1.5)
 
+# Export the plot as a vector PDF
+ggsave("temperature_estimates_per_sample_horizon.pdf", device = "pdf", width = 10, height = 8)
+
 # ------------------------------------------------------------------------------------------
 # Calculate mean temperature +/- 95%CL per season
 # Group data by Season and calculate the mean and the pooled standard deviation for D47
@@ -243,6 +249,9 @@ labs(x = "Sample", y = "Temperature (°C)", title = "Temperature Estimates per S
 scale_x_discrete(limits = unique(sample_data$Sample_name[order(sample_data$season)])) +
 theme_bw() +
 theme(axis.text.x = element_text(angle = 45, hjust = 1), aspect.ratio = 1 / 1.5)
+
+# Export the plot as a vector PDF
+ggsave("temperature_estimates_per_sample_season.pdf", device = "pdf", width = 10, height = 8)
 
 # ------------------------------------------------------------------------------------------
 # Calculate mean temperature +/- 95%CL per season and horizon
